@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/johnxjp-todoist-mcp-python-badge.png)](https://mseep.ai/app/johnxjp-todoist-mcp-python)
+
 # Todoist MCP Server
 
 A Model Context Protocol (MCP) server that allows clients like Claude to interact with Todoist, enabling task management capabilities through natural language. The server acts as an intermediary between clients and the Todoist API, handling authentication, data transformation, and command processing. This is a Python version
